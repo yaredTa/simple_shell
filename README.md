@@ -31,17 +31,15 @@ $`
 
 ## Authors
 
-👤 **Tarikwa Tesfa**
+👤 **Yared Tassew**
 
-- GitHub: [@tariktesfa](https://github.com/tariktesfa)
-- Twitter: [@tarikwatesfa](https://twitter.com/tarik_tesfa)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/tarikwa-tesfa)
+- GitHub: [@yaredTa](https://github.com/yaredTa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yared-tassew-1260b069/)
 
-👤 **Dawit Sisay**
+👤 **Cornelius Kipkosgei**
 
-- GitHub: [@dawitsisayy](https://github.com/DawitSisayy)
-- Twitter: [@Dawitsisay](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@MoHeavy](https://github.com/MoHeavy)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/MoHeavy)
 
 ## 🤝 Contributing
 
